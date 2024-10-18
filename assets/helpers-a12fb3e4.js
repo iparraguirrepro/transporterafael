@@ -1,0 +1,2 @@
+const a={mounted:t=>{t.getElementsByTagName("input")[0].addEventListener("keydown",e=>{e.key.match(/\d/)||e.keyCode==46||e.keyCode==8||e.key==="."&&e.target.value.indexOf(".")===-1||e.preventDefault()})}},d={mounted:t=>{t.getElementsByTagName("input")[0].addEventListener("keydown",e=>{e.key.match(/\d/)||e.keyCode==46||e.keyCode==8||e.preventDefault()})}};export{d as a,a as o};
+//# sourceMappingURL=helpers-a12fb3e4.js.map
