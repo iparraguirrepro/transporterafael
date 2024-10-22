@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomersPage-ec706662.js","sources":["../../src/pages/customers/CustomersPage.vue"],"sourcesContent":["<script setup lang=\"ts\"></script>\r\n\r\n<template>\r\n  <div class=\"py-4\">\r\n    <RouterView />\r\n  </div>\r\n</template>\r\n"],"names":["_openBlock","_createElementBlock","_hoisted_1"],"mappings":"+IAIkBA,EAAA,EAAAC,EAAA,MAAAC,EAAA"}
