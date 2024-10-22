@@ -1,0 +1,1 @@
+{"version":3,"file":"OrdersPage-2f7e5c8e.js","sources":["../../src/pages/orders/OrdersPage.vue"],"sourcesContent":["<template>\n  <div class=\"py-4\">\n    <RouterView />\n  </div>\n</template>\n<script setup lang=\"ts\"></script>\n"],"names":["_openBlock","_createElementBlock","_hoisted_1"],"mappings":"0IAEkBA,EAAA,EAAAC,EAAA,MAAAC,EAAA"}
